@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SreyashiSamanta
+- 👀 I'm a passionate data enthusiast with a keen interest in Data Science, Analytics, Machine Learning Algorithms, and Statistical Analytics. I'm currently on a journey to master Machine Learning Algorithms and explore the endless possibilities they offer
+- 🌱 I'm currently working on a Next Best Action model for a pharmaceutical company specializing in oncology, a fascinating project that involves leveraging data to optimize omnichannel marketing strategies. You'll find this and other data-driven projects in my repository.
+- 💞️ I'm open to collaborations on projects related to Data Science and Machine Learning. Let's team up and create something amazing!
+- 📫 - 📫 You can reach me at: ssamanta@buffalo.edu
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/sreyashisamanta/).
+- 💬 Let's connect and discuss all things data!
